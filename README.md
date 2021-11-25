@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JiangyanLiNEU
+- 👋 Hi, I’m Lily
 - 👀 I’m interested in coding, cooking and exercising
 - 🌱 I’m currently learning web developemnt
 - 💞️ I’m looking to collaborate on maybe develop a website together
